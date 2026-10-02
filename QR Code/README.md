@@ -6,7 +6,7 @@ The app provides an easy-to-use interface with QR customization and download/sha
 
 ---
 
-## 📲 App Overview
+## 📲 App Overview  
 
 **QR Code Generator** is an Android application designed to generate QR codes quickly from different types of information.
 
