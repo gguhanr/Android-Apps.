@@ -243,7 +243,7 @@ Example:
 
 ## 👨‍💻 Developer
 
-### Balavignesh
+### 
 
 **QR Code Generator – Android Application**
 
