@@ -134,10 +134,6 @@ Try to beat your previous high score!
 
 **Gowtham M**
 
-- 🌐 Portfolio: [Gowtham M Portfolio](https://gowtham2025.neocities.org)
-- 💻 GitHub: [Gowtham9443](https://github.com/Gowtham9443)
-- 🔗 LinkedIn: [Gowtham M](https://www.linkedin.com/in/gowtham-m-96aa1620)
-
 ## 📄 License
 
 This project is created for **educational and personal project purposes**.
