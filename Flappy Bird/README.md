@@ -132,7 +132,7 @@ Try to beat your previous high score!
 
 ## 👨‍💻 Developer
 
-**Gowtham M**
+**GUHAN S **
 
 ## 📄 License
 
