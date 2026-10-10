@@ -33,6 +33,6 @@ Download the APK from the **GitHub Releases** section after the APK file has bee
 5. Save the processed files.
 
 ## 👨‍💻 Developer
-**Gowtham M**
+**GUHAN S**
 ## 📄 License
 MIT License (if selected for this project).
